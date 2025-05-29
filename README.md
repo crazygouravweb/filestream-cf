@@ -5,17 +5,17 @@ File To Link Telegram Bot Using Cloudflare Workers.
 
 ## 🗂 Variables
 ```javascript
-const BOT_TOKEN = "BOT_TOKEN"; // Insert your bot token.
+const BOT_TOKEN = "8163208816:AAEy0llN9vAzaLJaWC6Wf1yEL734zDHkjKU"; // Insert your bot token.
 const BOT_WEBHOOK = "/endpoint"; // Let it be as it is.
-const BOT_SECRET = "BOT_SECRET"; // Insert a powerful secret text.
-const BOT_OWNER = 123456789; // Insert your telegram account id.
-const BOT_CHANNEL = -100123456789; // Insert telegram channel id.
-const SIA_SECRET = "SIA_SECRET"; // Insert a powerful secret text.
+const BOT_SECRET = "123456789"; // Insert a powerful secret text.
+const BOT_OWNER = 7650437993; // Insert your telegram account id.
+const BOT_CHANNEL = -1002383409642; // Insert telegram channel id.
+const SIA_SECRET = "crazy"; // Insert a powerful secret text.
 const PUBLIC_BOT = false; // Make your bot public.
 ```
 
 ### Setup:
-- Get `BOT_TOKEN` from [@botfather](https://t.me/botfather).
+- Get `8163208816:AAEy0llN9vAzaLJaWC6Wf1yEL734zDHkjKU` from [@botfather](https://t.me/botfather).
     - Turn on `inline mode` in bot settings.
     - Disable `inline feedback` for better results.
 - Change `BOT_WEBHOOK` with your preferred webhook.
